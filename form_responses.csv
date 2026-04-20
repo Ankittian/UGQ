@@ -1,0 +1,40 @@
+Timestamp,Name,Date of birth,Gender:,"How would you like the room temperature to be adjusted relative to how it feels right now? 
+Please select a value on the scale below:
+(-1) Cooler
+(0) No Change
+(+1) Hotter","How would you like to adjust the fan speed relative to how it is running now?
+(-1) Less than Current speed
+(0) No change
+(+1) More than Current speed ","How would you describe your current level of thermal comfort in this room?
+(0) Comfortable 
+(+1) Slightly Uncomfortable 
+(+2) Uncomfortable 
+(+3) Very Uncomfortable ","How would you describe your current thermal sensation in this room? Please select a value on the scale below:
+(-3) Cold
+(-2) Cool
+(-1) Slightly Cool
+(0) Neutral
+(+1) Slightly Warm
+(+2) Warm
+(+3) Hot", What are you currently up to?,Select any inner layers you are wearing,Which upper body garments are you wearing,Which lower body garments are you wearing,Describe your footwear,"How would you rate the current level of Air velociy in this room?
+
+(0) Fan OFF
+(1) Fan Low 
+(2) Fan Medium
+(3) Fan High
+(4) AC Blowing",what is the current fan speed ?,Column 14
+4/17/2026 10:44:04,Ankit Rath,10/27/2004,Male,0,+1,0,-1,Reclining,Men's Briefs / Panties,Short-sleeved T-shirt / Polo,Short Shorts,Barefoot,3,,
+4/18/2026 16:02:25,Adarsh ,5/9/2005,Male,-1,0,0,+1,Reclining,Men's Briefs / Panties,Short-sleeved T-shirt / Polo,Walking Shorts,Barefoot,3,,
+4/18/2026 21:01:12,Aman Mishra ,3/3/2005,Male,0,0,0,0,Seating,"Men's Briefs / Panties, Baniyan / Undershirt / Camisole",Short-sleeved T-shirt / Polo,Walking Shorts,Chappals / Sandals / Slippers,3,,
+4/19/2026 13:43:13,Adarsh Panjwani,5/9/2005,Male,-1,0,+1,+1,Seating,Men's Briefs / Panties,Short-sleeved T-shirt / Polo,Short Shorts,Barefoot,2,,
+4/19/2026 13:46:41,Shourya Kalbande ,5/12/2004,Male,-1,+1,+1,-1,Seating,"Men's Briefs / Panties, Baniyan / Undershirt / Camisole",Short-sleeved T-shirt / Polo,Walking Shorts,Chappals / Sandals / Slippers,3,,
+4/19/2026 14:03:07,prince,1/5/2004,Male,-1,+1,+2,+1,Sleeping,Men's Briefs / Panties,Short-sleeved T-shirt / Polo,Straight Trousers / Pants,Chappals / Sandals / Slippers,3,,
+4/19/2026 15:15:07,Adarsh Panjwani ,5/9/2005,Male,-1,+1,+1,+2,Reclining,Men's Briefs / Panties,Short-sleeved T-shirt / Polo,Walking Shorts,Barefoot,4,,
+4/19/2026 17:20:49,Anurag Sharad Patil,2/17/2004,Male,0,+1,0,0,Listening to Music,"Men's Briefs / Panties, None",Short-sleeved T-shirt / Polo,Walking Shorts,Chappals / Sandals / Slippers,1,,
+4/19/2026 17:22:58,Amritansh Ranjan ,12/12/2004,Male,-1,0,+3,-2,Seating,Men's Briefs / Panties,Short-sleeved T-shirt / Polo,Walking Shorts,Chappals / Sandals / Slippers,3,,
+4/19/2026 18:24:17,Kartikeyan,5/26/2005,Male,-1,+1,0,-2,"Sleeping, Seating, Watching TV, Listening to Music, Reading, Writing, Typing","Men's Briefs / Panties, Baniyan / Undershirt / Camisole",Short-sleeved T-shirt / Polo,Walking Shorts,Barefoot,2,,
+4/19/2026 20:13:23,Anurag Patil ,4/2/2026,Male,0,0,+1,-1,Watching TV,Men's Briefs / Panties,Short-sleeved T-shirt / Polo,Walking Shorts,Barefoot,4,,
+4/19/2026 21:07:17,Sanapathi Rushi,4/19/2026,Male,0,0,0,0,"Listening to Music, Reading",Men's Briefs / Panties,Short-sleeved T-shirt / Polo,Sweatpants,Chappals / Sandals / Slippers,4,,
+4/19/2026 22:21:04,Krish Raghuwanshi,10/11/2005,Male,-1,+1,+3,+3,Listening to Music,None,None,None,Shoes,1,,
+4/19/2026 23:31:49,Aayush Kumar,9/27/2005,Male,-1,0,+1,-1,"Sleeping, Reclining, Seating, Listening to Music, Reading, Writing, Typing, Standing, Walking",Men's Briefs / Panties,Short-sleeved T-shirt / Polo,Straight Trousers / Pants,Chappals / Sandals / Slippers,2,,
+4/20/2026 1:40:06,Prashant Ramtekkar,8/29/2004,Male,-1,0,0,-2,Reading,Men's Briefs / Panties,Short-sleeved T-shirt / Polo,Straight Trousers / Pants,Barefoot,2,,
