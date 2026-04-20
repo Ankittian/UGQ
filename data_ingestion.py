@@ -30,7 +30,7 @@ warnings.filterwarnings("ignore")
 # 0.  CONFIGURATION
 # ═══════════════════════════════════════════════════════════════════════════════
 
-NEON_DB_URL         = os.getenv("NEON_DB_URL", "postgresql://neondb_owner:npg_JBplV4btz2Fa@ep-summer-tree-a1qoan7c-pooler.ap-southeast-1.aws.neon.tech/neondb?sslmode=require")
+NEON_DB_URL         = os.getenv("NEON_DB_URL", "Enter connection string here")
 GOOGLE_FORM_CSV     = os.getenv("GOOGLE_FORM_CSV", "form_responses.csv")
 MERGE_TOLERANCE_MIN = 5       # match survey to nearest sensor bucket within ±N min
 LAMBDA_WINDOW       = 30      # rolling window for aPMV calibration
